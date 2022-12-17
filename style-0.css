@@ -1,0 +1,16 @@
+.bg-image {
+  margin: 0 auto;
+  max-width: 800px;
+  height: 650px;
+  padding: 40px;
+  background-image: url('./img/city.avif');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text {
+  text-align: center;
+  font-size: 60px;
+  color: #fff;
+}
